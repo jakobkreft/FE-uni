@@ -5,5 +5,8 @@
 - jax Joplin file v markdown jeziku 
 - pdf enačb za prvi kolokvij
 
+## /Opto -> Optoelektronika
+- pdf zapiskov iz predavanj
+
 ## /Assembly -> ARM assembly notes 
 - \* to do
