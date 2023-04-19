@@ -9,5 +9,5 @@
 - pdf zapiskov iz predavanj
 - pdf zapiskov iz nalog za vajo
 
-## /MAT4 -> Mathematica Lab vaje
+## /MAT4 -> Matematika
 - pdf zapiskov iz lab vaj
