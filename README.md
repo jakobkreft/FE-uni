@@ -9,5 +9,5 @@
 - pdf zapiskov iz predavanj
 - pdf zapiskov iz nalog za vajo
 
-## /Assembly -> ARM assembly notes 
-- \* to do
+## /MAT4 -> Mathematica Lab vaje
+- pdf zapiskov iz lab vaj
