@@ -11,3 +11,6 @@
 
 ## /MAT4 -> Matematika
 - pdf zapiskov iz lab vaj
+
+## /ETS -> TOEFL and GRE test
+- pdf with tips and tamplates and study plan for toefl in 3 days.
